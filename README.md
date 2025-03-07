@@ -17,11 +17,11 @@ Rock, Paper, Scissors is a classic game played against the computer. This projec
 
 ## ✨ Features
 
-✔ **Simple GUI:** User-friendly interface built with Tkinter.
-✔ **Best of 3 Rounds:** Keeps track of scores and declares a winner.
-✔ **Random Quotes:** Motivational and fun quotes appear at the end.
-✔ **Error Handling:** Ensures valid inputs and smooth gameplay.
-✔ **Play Again Option:** Restart the game after finishing a round.
+* ✔ **Simple GUI:** User-friendly interface built with Tkinter.
+* ✔ **Best of 3 Rounds:** Keeps track of scores and declares a winner.
+* ✔ **Random Quotes:** Motivational and fun quotes appear at the end.
+* ✔ **Error Handling:** Ensures valid inputs and smooth gameplay.
+* ✔ **Play Again Option:** Restart the game after finishing a round.
 
 ## 🛠 Requirements & Installation
 
